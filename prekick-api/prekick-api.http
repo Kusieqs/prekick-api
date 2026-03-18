@@ -4,3 +4,7 @@ GET {{prekick_api_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+
+GET {{prekick_api_HostAddress}}/match/
+Accept: application/json
+
